@@ -37,12 +37,10 @@
     "@types/cookie-parser": "^1.4.2",
     "@types/express": "^4.17.8",
     "@types/express-session": "^1.17.0",
-    "@types/mongoose": "^5.7.36",
     "@types/morgan": "^1.9.1",
     "@types/node": "^10.17.31",
     "@types/passport": "^1.0.4",
-    "@types/passport-local": "^1.0.33",
-    "@types/passport-local-mongoose": "^4.0.13"
+    "@types/passport-local": "^1.0.33"
   },
   "repository": {
     "type": "git",
