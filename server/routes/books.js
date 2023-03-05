@@ -58,7 +58,6 @@ router.post('/add', (req, res, next) => {
 });
 
 
-
 // GET the Book Details page in order to edit an existing Book
 router.get('/:id', (req, res, next) => {
   // Find the book by id
