@@ -26,7 +26,7 @@
     "passport-local-mongoose": "^5.0.1"
   },
   "engines": {
-    "node": "^10.15.0",
+    "node": "^18.14.2",
     "npm": "^6.0.0"
   },
   "description": "## Welcome to the MidTerm Project - the Favourite Book List App",
